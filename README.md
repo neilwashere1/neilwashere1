@@ -9,4 +9,4 @@
 
 <br>
 
-I work across security operations, agentic AI security, cloud security and identity. My focus is **confirmed, explained and actionable**: short lists of things that are real, and least privilege that is proven, not assumed.
+I work across security operations, CIAM, IAM, agentic AI security, cloud security and identity. 
