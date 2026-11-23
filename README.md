@@ -9,4 +9,4 @@
 
 <br>
 
-I work across security operations, CIAM, IAM, agentic AI security, cloud security and identity. 
+I work across Security Operations, CIAM, IAM, Agentic Security, Supply Chain Security, Cloud Security and Identity. 
