@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
-  <img alt="Neil, Security Engineer and Researcher in identity, cloud and agentic AI. A friendly robot waving, drawn from binary digits." src="hero-light.svg" width="100%">
+  <img alt="Neil, Security Engineer and Researcher in identity, cloud and agentic AI, Supply Chain Security. A friendly robot waving, drawn from binary digits." src="hero-light.svg" width="100%">
 </picture>
 
 </div>
