@@ -81,13 +81,13 @@
 <text class="d" x="24" y="437" textLength="960" lengthAdjust="spacing" xml:space="preserve"><tspan class="s0">                                                                                    </tspan><tspan class="s5">10111</tspan><tspan class="s0">                               </tspan></text>
 </g></g>
 <line x1="626" y1="70" x2="626" y2="370" stroke="#30363d"/>
-<text class="tag f f1" x="650" y="150">SECURITY ENGINEER / RESEARCHER</text>
-<text class="name f f1" x="648" y="212">Neil</text>
-<text class="role f f2" x="650" y="252">SecOps · Agentic SOC · Agentic security</text>
-<text class="role f f2" x="650" y="280">Cloud security · IAM · CIAM · Zero trust</text>
-<line x1="650" y1="306" x2="1050" y2="306" stroke="#30363d"/>
-<text class="cmd f f2" x="650" y="338"><tspan class="p">$</tspan> ./triage --agentic --verdict</text>
-<text class="cmd f f3" x="650" y="364"><tspan class="p">$</tspan> ./agent-identity --scope --revoke</text>
-<text class="cmd f f4" x="650" y="390"><tspan class="p">$</tspan> ./attack-path --reachable --exploitable</text>
-<text class="cmd f f4" x="650" y="416"><tspan class="p">$</tspan> ./authz --least-privilege --verify <tspan class="cur">▌</tspan></text>
+<text class="tag f f1" x="650" y="87">SECURITY ENGINEER / RESEARCHER</text>
+<text class="name f f1" x="648" y="149">Neil</text>
+<text class="role f f2" x="650" y="189">SecOps · Agentic SOC · Agentic security</text>
+<text class="role f f2" x="650" y="217">Cloud security · IAM · CIAM · Zero trust</text>
+<line x1="650" y1="243" x2="1050" y2="243" stroke="#30363d"/>
+<text class="cmd f f2" x="650" y="275"><tspan class="p">$</tspan> ./triage --agentic --verdict</text>
+<text class="cmd f f3" x="650" y="301"><tspan class="p">$</tspan> ./agent-identity --scope --revoke</text>
+<text class="cmd f f4" x="650" y="327"><tspan class="p">$</tspan> ./attack-path --reachable --exploitable</text>
+<text class="cmd f f4" x="650" y="353"><tspan class="p">$</tspan> ./authz --least-privilege --verify <tspan class="cur">▌</tspan></text>
 </svg>
